@@ -9,14 +9,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alantking/DiscordBot-JS.git"
+    "url": "git+https://github.com/studios-infinity/eval-bot.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/alantking/DiscordBot-JS/issues"
-  },
   "homepage": "https://github.com/alantking/DiscordBot-JS#readme",
   "dependencies": {
     "discord.js": "^11.5.1",
